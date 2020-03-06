@@ -19,5 +19,26 @@ h3 {
 }
 
 body {
-    background-color: peru;
+    background-color: grey;
+    
 }
+
+.estilo1 {
+background-color:green;
+
+}
+
+.estilo2 {
+    background-color: blue;
+    
+    }
+
+    .imagendefondo{
+background-image: url(img/Medellin.jpg);
+background-attachment: fixed;
+height:400px;
+ }
+
+ .textorojo{
+     color:red;
+ }
