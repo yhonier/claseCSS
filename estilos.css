@@ -42,3 +42,21 @@ height:400px;
  .textorojo{
      color:red;
  }
+
+ table,td {
+     border: 2px solid;
+     border-collapse: collapse;
+     width: 25%;
+
+ }
+
+ tr:hover{
+     background-color: green;
+
+    }
+
+    td:hover{
+        background-color:greenyellow;
+   
+       }
+
